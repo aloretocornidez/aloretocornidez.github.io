@@ -21,12 +21,13 @@
 title: Alan Manuel Loreto Cornídez
 email: aloretocornidez@arizona.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Alan Manuel Loreto Cornídez | Electrical and Computer Engineering
+  Blogging for guitar players, photographers, programmers, and mechanics.
 baseurl: "" # the subpath of your site, e.g. /blog
 domain: "aloretocornidez.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 url: "https://aloretocornidez.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  aloretocornidez
+instagram_username: el.alan.manuel
 
 # Build settings
 theme: minima
