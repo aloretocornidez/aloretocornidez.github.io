@@ -1,0 +1,8 @@
+- name: Home
+  link: /index/
+- name: About
+  link: /about/
+- name: Categories
+  link: /test
+# - name: Staff
+  # link: /info-pages/staff.html
